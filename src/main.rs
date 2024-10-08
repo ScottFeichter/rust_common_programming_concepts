@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Rust has keywords, similar to other languages...");
 }
