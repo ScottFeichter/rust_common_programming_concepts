@@ -8,4 +8,8 @@ fn main() {
 
     println!("{immutable}");
 
+    // concurrency - multiple computations happening at the same time
+    // immutability is favorable for concurrency but you can't always use
+    // a variable that is immutable - once it is bound to an identifier you cannot change the value
+
 }
